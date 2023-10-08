@@ -1,8 +1,7 @@
 
 ### Assalamu Alalaikum Everyone 👋 I'm Hasan Mahmud 
 #### Software Engineer | Web Developer | .net | Angular 
-![Profile views](https://gpvc.arturio.dev/HasanMahmudDev)
-![Web Developer | .net | Angular](https://scontent.fdac138-2.fna.fbcdn.net/v/t39.30808-6/338537928_264731185888772_4024136950515512527_n.png?_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEuULG0K92N5HKYuklC_LDLUyVQZWZ_0EpTJVBlZn_QSj0eGqUPf7BgMVz5UJT3r5O5okSGNFdk_M7Vba6xKsPB&_nc_ohc=j8sU9JJKt3EAX-pqKS3&_nc_ht=scontent.fdac138-2.fna&oh=00_AfDN2Tm43BBqbm0GyelphHDataWfdvR4XHfLKzwD6O6fHA&oe=642B0296)
+
 <b> Assalamu Alaikum, This is <a href="https://leetcode.com/HasanMahmudDev">  Md. Hasan Mahmud.</a> A Passionate Software Developer and Programmer. I love to play with coding, building software, and focusing on learning new technologies. I currently working as a Software Developer at <a href="https://wavespan.solutions">WaveSpan Solutions Limited.</a> </b>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

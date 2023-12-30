@@ -10,7 +10,7 @@
 <a href="https://stackoverflow.com/users/21534787/hmdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21534787/hmdev" height="30" width="40" /></a>
 <a href="https://fb.com/hasanmahmuddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasanmahmuddev" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hasanmahmuddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hasanmahmuddev" height="30" width="40" /></a>
-<a href="https://www.freecodecamp.org/hasanmahmuddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/freecodecamp" height="30" width="40" /></a>
+<a href="https://www.freecodecamp.org/hasanmahmuddev" target="blank"><img align="center" src="https://github.com/HasanMahmudDev/HasanMahmudDev/assets/90406706/2078619b-a35f-4886-9ef2-5ae1faf68870" height="30" width="40" /></a>
 </p>
 
 

@@ -5,7 +5,7 @@
 <b> Assalamu Alaikum, This is <a href="https://leetcode.com/HasanMahmudDev">  Md. Hasan Mahmud.</a> A Passionate Software Developer and Programmer. I love to play with coding, building software, and focusing on learning new technologies. I currently working as a Software Developer at <a href="https://pintechltd.com">Pinovation Tech Ltd.</a> </b>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hasanmahmuddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasanmahmuddev" height="30" width="40" /></a>
+<a href="https://twitter.com/hasanmahmuddev" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-1024.png" alt="hasanmahmuddev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hasanmahmuddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasanmahmuddev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21534787/hmdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21534787/hmdev" height="30" width="40" /></a>
 <a href="https://fb.com/hasanmahmuddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasanmahmuddev" height="30" width="40" /></a>

@@ -23,9 +23,7 @@ like:
 
 ## 🌐 Connect With Me
 
--   Twitter: https://twitter.com/hasanmahmuddev\
 -   LinkedIn: https://www.linkedin.com/in/hasanmahmuddev/
--   StackOverflow: https://stackoverflow.com/users/21534787/hmdev\
 -   Facebook: https://www.facebook.com/HasanMahmudDev
 -   LeetCode: https://leetcode.com/hasanmahmuddev
 
